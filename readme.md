@@ -114,7 +114,8 @@ As a Web2 Full Stack Developer diving into blockchain and Rust, here's a breakdo
 
 ### 🛡️ Smart Contract & Blockchain Concepts
 
-- **Smart Contract** – A self-contained program that runs on the blockchain. Think of it as an immutable backend service that has its own storage and logic, and runs inside a virtual machine (VM).
+- **Smart Contract** – A smart contract is a self-executing program deployed on a blockchain. It acts like a backend service with its own built-in storage and logic, running in a secure, decentralized virtual machine (VM). Once deployed, its code is immutable, meaning it can’t be changed—ensuring transparency, trust, and automation without the need for intermediaries.
+
 
 - **Rust Attributes (macros)** – In MultiversX, special macros like `#[init]`, `#[view]`, and `#[endpoint]` are used to annotate your smart contract functions. They instruct the blockchain how and when those methods can be called:
   - `#[init]`: Marks the **constructor**, executed once at deployment to initialize contract state.
