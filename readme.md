@@ -4,7 +4,7 @@ This is my **first smart contract** built using Rust and MultiversX. I followed 
 
 ---
 
-## �� Contract Overview
+## 📝 Contract Overview
 
 This smart contract implements a complete crowdfunding platform with the following features:
 
